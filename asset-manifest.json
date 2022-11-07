@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.bbfc71e5.css",
-    "main.js": "/static/js/main.02d5371f.js",
+    "main.js": "/static/js/main.6f07f164.js",
     "static/js/787.06644657.chunk.js": "/static/js/787.06644657.chunk.js",
     "static/media/mai-method-resized.png": "/static/media/mai-method-resized.946c3e14c327389400ae.png",
     "index.html": "/index.html",
     "main.bbfc71e5.css.map": "/static/css/main.bbfc71e5.css.map",
-    "main.02d5371f.js.map": "/static/js/main.02d5371f.js.map",
+    "main.6f07f164.js.map": "/static/js/main.6f07f164.js.map",
     "787.06644657.chunk.js.map": "/static/js/787.06644657.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bbfc71e5.css",
-    "static/js/main.02d5371f.js"
+    "static/js/main.6f07f164.js"
   ]
 }
