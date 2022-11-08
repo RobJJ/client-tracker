@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.bbfc71e5.css",
-    "main.js": "/static/js/main.a7736d29.js",
-    "static/js/787.06644657.chunk.js": "/static/js/787.06644657.chunk.js",
-    "static/media/mai-method-resized.png": "/static/media/mai-method-resized.946c3e14c327389400ae.png",
-    "index.html": "/index.html",
-    "main.bbfc71e5.css.map": "/static/css/main.bbfc71e5.css.map",
-    "main.a7736d29.js.map": "/static/js/main.a7736d29.js.map",
-    "787.06644657.chunk.js.map": "/static/js/787.06644657.chunk.js.map"
+    "main.css": "/tracker-styles/static/css/main.bbfc71e5.css",
+    "main.js": "/tracker-styles/static/js/main.f16b55e2.js",
+    "static/js/787.06644657.chunk.js": "/tracker-styles/static/js/787.06644657.chunk.js",
+    "static/media/mai-method-resized.png": "/tracker-styles/static/media/mai-method-resized.946c3e14c327389400ae.png",
+    "index.html": "/tracker-styles/index.html",
+    "main.bbfc71e5.css.map": "/tracker-styles/static/css/main.bbfc71e5.css.map",
+    "main.f16b55e2.js.map": "/tracker-styles/static/js/main.f16b55e2.js.map",
+    "787.06644657.chunk.js.map": "/tracker-styles/static/js/787.06644657.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bbfc71e5.css",
-    "static/js/main.a7736d29.js"
+    "static/js/main.f16b55e2.js"
   ]
 }
